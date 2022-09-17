@@ -1,0 +1,17 @@
+starlette==0.20.4
+pydantic==1.9.2
+fastapi==0.79.0  # https://pypi.org/project/fastapi/
+
+loguru==0.6.0 # https://pypi.org/project/loguru/
+requests==2.28.1  # https://pypi.org/project/requests/
+pytest==7.1.2  # https://pypi.org/project/pytest/
+pytest-sugar==0.9.5  # https://pypi.org/project/pytest-sugar/
+pre-commit==2.20.0  # https://pypi.org/project/pre-commit/
+uvicorn==0.18.2  # https://www.uvicorn.org/
+uvloop==0.16.0  # https://pypi.org/project/uvloop/
+httptools==0.4.0  # https://pypi.org/project/httptools/0.1.2/
+python-dotenv==0.20.0  # https://pypi.org/project/python-dotenv/
+orjson==3.7.11  # https://pypi.org/project/orjson/
+gunicorn==20.1.0  #https://pypi.org/project/gunicorn/
+aiohttp==3.8.1  #https://docs.aiohttp.org/en/stable/client_quickstart.html
+
